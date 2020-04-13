@@ -1,0 +1,39 @@
+number, company, companyAbbreviation
+
+1, 21stCenturyFox, foxa
+2, 3M, mmm
+3, Amazon, amzn
+4, Apple, aapl
+5, AT&T, t
+6, BoeingCompany, ba
+7, BritishPetroleum, bp
+8, CenturyLink, ctl
+9, Charter, chtr
+10, Disney, dis
+11, DukeEnergy, duk
+12, ExxonMobile, xom
+13, GeneralElectric, ge
+14, Google, goog
+15, HomeDepot, hd
+16, HondaMotorCorp, hmc
+17, JPMorgan, jpm
+18, Micron, mu
+19, Microsoft, msft
+20, Netflix, nflx
+21, Nike, nke
+22, Nokia, nok
+23, Procter&Gamble, pg
+24, SouthwestGasCorp., swx
+25, StanleyBlack&Decker, swp
+26, Target, tgt
+27, Tesla, tsla
+29, USSteel, x
+29, Verizon, vz
+
+
+
+
+
+
+
+
